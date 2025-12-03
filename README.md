@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm a Computer Engineering Student 👋
 
-<!--
-**Jacint69/Jacint69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Computer Engineering student at Óbuda University** with a strong interest in **software and web development**.
 
-Here are some ideas to get you started:
+### 🧑‍💻 Tech Stack
+- **Backend:** C#, ASP.NET Web API, ASP.NET Core, .NET
+- **Frontend:** Angular, TypeScript, HTML, CSS, SASS
+- **Database:** SQL (Microsoft SQL Server, MySQL)
+- **Tools:** Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm working on
+- Developing **full-stack web applications** using **Angular** and **ASP.NET Web API**
+- Working on a larger **personal / university project** focused on clean backend design and frontend integration
+
+### 📌 Interests
+- Full-stack and backend development
+- Designing clean, maintainable APIs
+- Software design principles and best practices
+
+### 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/jacint-kovacs
