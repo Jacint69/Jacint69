@@ -22,7 +22,7 @@ I am motivated to grow in a professional environment, learn industry best practi
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Angular](https://img.shields.io/badge/Angular-0d1117?style=flat-square&logo=angular&logoColor=DD0031)
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
+![CSS3](https://img.shields.io/badge/CSS-%230d1117?style=flat-square&logo=css&logoColor=%23663399)
 ![Sass](https://img.shields.io/badge/Sass-0d1117?style=flat-square&logo=sass&logoColor=CC6699)
 
 ### 🗄️ Database
@@ -34,15 +34,12 @@ I am motivated to grow in a professional environment, learn industry best practi
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github)
 
 
+## 🚀 What I'm currently working on
+- Building a real-time full-stack web application using ASP.NET Core Web API and Angular
+- Implementing JWT-based authentication and role-based authorization
+- Designing clean REST APIs with separation of concerns (DTOs, services, repositories)
+- Integrating relational databases using Entity Framework Core
 
-### 🚀 What I'm working on
-- Developing **full-stack web applications** using **Angular** and **ASP.NET Web API**
-- Working on a larger **personal / university project** focused on clean backend design and frontend integration
-
-### 📌 Interests
-- Full-stack and backend development
-- Designing clean, maintainable APIs
-- Software design principles and best practices
 
 ### 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/jacint-kovacs)
