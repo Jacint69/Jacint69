@@ -45,7 +45,5 @@ I am motivated to grow in a professional environment, learn industry best practi
 - Software design principles and best practices
 
 ### 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacint-kovacs)
-
-
-[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/jacint-kovacs)
+[![Static Badge](https://img.shields.io/badge/Gmail-%23EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kovacs.jacint02@gmail.com)
